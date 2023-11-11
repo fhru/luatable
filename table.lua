@@ -1,6 +1,6 @@
 -- file: module.lua
 local M = {}
-local data = {"mobil","motor","asu","tesits","fas","ivan","ivanasu","sdaop","asu"}
+local data = {"mobil","motor","asu","tesits","fas","ivan","ivanasu","sdaop","asu","ANJINGGGGG"}
 
 local function checkOwner(player)
     for _, pp in pairs(data) do
