@@ -1,1 +1,1 @@
-data = {"mobil","motor","asu","tesits","fas"}
+data = {"mobil","motor","asu","tesits","fas","ivan"}
