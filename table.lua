@@ -1,0 +1,3 @@
+data = {
+  "mobil", "motor","asu"
+}
