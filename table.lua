@@ -1,5 +1,5 @@
 local M = {}
-data = {"mobil","motor","asu","tesits","fas","ivan","ivanasu","sdaop"}
+data = {"mobil","motor","asu","tesits","fas","ivan","ivanasu","sdaop","asu"}
 
 function checkOwner(player)
   for _,pp in pairs(data) do
